@@ -16,4 +16,4 @@ This code is in a 'research-level' state. Probably worse. Thus it is under-docum
 
 ## Contact
 
-If you research overlaps any of the ideas discussed in the paper above and you wish to get in touch please [drop me a line](https://colinstephen.info).
+If your research overlaps any of the ideas discussed in the paper above and you wish to get in touch please [drop me a line](https://colinstephen.info).
