@@ -2,7 +2,7 @@
 
 This repository contains Sklearn-compatible (Python) code for computing per-class persistent homology kernel density estimates for time series classification problems, as proposed in the following paper.
 
-Stephen, Colin. (2018) _Sinkhorn Divergence of Topological Signature Estimates for Time Series Classification._ 17th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2018.
+Stephen, Colin. (2018) [_Sinkhorn Divergence of Topological Signature Estimates for Time Series Classification._](https://ieeexplore.ieee.org/document/8614138) 17th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2018.
 
 ## Reuse
 
